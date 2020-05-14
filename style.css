@@ -1,0 +1,21 @@
+
+
+
+
+
+
+
+
+
+
+.container-fluid .nav {
+	display: inline-block;
+	text-decoration: none;
+}
+
+.panel-body table th{
+	font-size: large;
+}
+.panel-body table tr td{
+	font-size: medium;
+}
